@@ -5,3 +5,10 @@ ______________.net core used three languages__________________________________
         Choose F# if you're interested in functional programming or working with tasks like data science, AI, or complex mathematical computations.
         Choose VB.NET if you're working with legacy systems, need rapid application development with an easy-to-understand syntax, or are transitioning from older VB6 applications.
 
+>>>>>>>>>>> Use Microsoft Container Registry (MCR), which is Microsoft's official registry for .NET and other Microsoft-related container images.<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+1) mcr.microsoft.com/dotnet/sdk:6.0-----------------image (includes the full .NET SDK for development and build tools)
+Tasks Performed:
+Restore dependencies using dotnet restore.
+Compile the application using dotnet build.
+
